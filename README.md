@@ -1,6 +1,6 @@
 # 👋 Hola, soy Giorgio Behna
 
-Full Stack Developer certificado por 4Geeks Academy España,
+Full Stack Junior Developer certificado por 4Geeks Academy España,
 apasionado por crear aplicaciones web completas y funcionales.
 
 ## 🚀 Tecnologías que uso
